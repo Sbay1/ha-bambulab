@@ -322,7 +322,7 @@
           "running": "Lavorando",
           "pause": "Pausa",
           "slicing": "Slicing",
-          "init": "Dentro"
+          "init": "Iniziata"
         }
       },
       "mqtt_mode": {
@@ -338,9 +338,9 @@
       "print_bed_type": {
         "name": "Tipo Piano di Stampa",
         "state": {
-          "textured_plate": "Piatto Texutrizzato",
+          "textured_plate": "Piatto PEI Texturizzato",
           "cool_plate": "Piatto Freddo/Piatto PLA",
-          "hot_plate": "Piatto PEI Liscia/Piatto Alte Temperature",
+          "hot_plate": "Piatto PEI Liscio/Piatto Alte Temperature",
           "eng_plate": "Piatto d'Ingegneria"
         }
       },
@@ -383,7 +383,7 @@
         "name": "Piatto Attivo"
       },
       "active_tray_index": {
-        "name": "Active tray index"
+        "name": "Slot attivo"
       },
       "nozzle_diameter": {
         "name": "Dimensione Ugello"
@@ -594,7 +594,7 @@
   "selector": {
     "configuration_type": {
       "options": {
-        "bambu": "Nuvola di bambù",
+        "bambu": "Bambu Cloud",
         "lan": "Connessione locale"
       }
     }
