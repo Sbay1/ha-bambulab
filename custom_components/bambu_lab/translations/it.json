@@ -321,14 +321,14 @@
           "running": "Lavorando",
           "pause": "Pausa",
           "slicing": "Slicing",
-          "init": "Dentro"
+          "init": "Iniziando"
         }
       },
       "mqtt_mode": {
         "name": "Modalità di Connessione MQTT",
         "state": {
           "local": "Locale",
-          "bambu_cloud": "La nuvola di Bambu Lab"
+          "bambu_cloud": "Bambu Lab Cloud"
         }
       },
       "gcode_file": {
@@ -337,9 +337,9 @@
       "print_bed_type": {
         "name": "Tipo Piano di Stampa",
         "state": {
-          "textured_plate": "Piatto Texutrizzato",
+          "textured_plate": "Piatto PEI Texturizzato",
           "cool_plate": "Piatto Freddo/Piatto PLA",
-          "hot_plate": "Piatto PEI Liscia/Piatto Alte Temperature",
+          "hot_plate": "Piatto PEI Liscio/Piatto Alte Temperature",
           "eng_plate": "Piatto d'Ingegneria"
         }
       },
@@ -596,7 +596,7 @@
   "selector": {
     "configuration_type": {
       "options": {
-        "bambu": "La nuvola di Bambu Lab",
+        "bambu": "Bambu Cloud",
         "lan": "Modalità Lan"
       }
     }
